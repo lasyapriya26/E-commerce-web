@@ -1,6 +1,6 @@
 import { Navbar,ProductCard } from "../../components/index";
 import { getAllProducts } from "../../api/getAllProducts";
-import { getAllCategories } from "../../api/getAllcategories";
+import { getAllCategories } from "../../api/getAllCategories";
 import { useEffect, useState } from "react";
 
 export default function Home() {
