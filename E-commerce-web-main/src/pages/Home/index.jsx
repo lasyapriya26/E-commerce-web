@@ -1,5 +1,5 @@
 import { Navbar,ProductCard } from "../../components/index";
-import { getAllProducts } from "../../api/GetAllProducts";
+import { getAllProducts } from "../../api/getAllProducts";
 import { getAllCategories } from "../../api/getAllcategories";
 import { useEffect, useState } from "react";
 
